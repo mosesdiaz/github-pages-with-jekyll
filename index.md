@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Moises Diaz"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Kulikitakati kulikitakata, Kulikitakati kulikitakata ...
